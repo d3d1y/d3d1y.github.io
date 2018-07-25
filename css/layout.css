@@ -327,8 +327,6 @@ ul#nav li.current a { color: #F06000; }
 
 .statistics {
   	width: 90%;
-  	-moz-animation: statistics 2s ease;
-  	-webkit-animation: statistics 2s ease;
 }
 .pipeline-dev {
   	width: 85%;
