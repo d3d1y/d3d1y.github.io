@@ -325,12 +325,6 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-statistics 90
-pipeline-dev 85
-qa 80
-tools 80
-pipelining 90
-
 .statistics {
   	width: 90%;
   	-moz-animation: statistics 2s ease;
