@@ -325,85 +325,78 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
-  	width: 60%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
-}
-.illustrator {
-  	width: 55%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
-}
-.wordpress {
-  	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
-}
-.css {
+statistics 90
+pipeline-dev 85
+qa 80
+tools 80
+pipelining 90
+
+.statistics {
   	width: 90%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
+  	-moz-animation: statistics 2s ease;
+  	-webkit-animation: statistics 2s ease;
 }
-.html5 {
+.pipeline-dev {
+  	width: 85%;
+  	-moz-animation: pipeline-dev 2s ease;
+  	-webkit-animation: pipeline-dev 2s ease;
+}
+.qa {
   	width: 80%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
+  	-moz-animation: qa 2s ease;
+  	-webkit-animation: qa 2s ease;
 }
-.jquery {
-  	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+.tools {
+  	width: 80%;
+  	-moz-animation: tools 2s ease;
+  	-webkit-animation: tools 2s ease;
+}
+.pipelining {
+  	width: 90%;
+  	-moz-animation: pipelining 2s ease;
+  	-webkit-animation: pipelining 2s ease;
 }
 
-@-moz-keyframes photoshop {
-  0%   { width: 0px;  }
-  100% { width: 60%;  }
-}
-@-moz-keyframes illustrator {
-  0%   { width: 0px;  }
-  100% { width: 55%;  }
-}
-@-moz-keyframes wordpress {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
-}
-@-moz-keyframes css {
+@-moz-keyframes statistics {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-moz-keyframes html5 {
+@-moz-keyframes pipeline-dev {
+  0%   { width: 0px;  }
+  100% { width: 85%;  }
+}
+@-moz-keyframes qa {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-moz-keyframes jquery {
+@-moz-keyframes tools {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 80%;  }
 }
-
-@-webkit-keyframes photoshop {
-  0%   { width: 0px;  }
-  100% { width: 60%;  }
-}
-@-webkit-keyframes illustrator {
-  0%   { width: 0px;  }
-  100% { width: 55%;  }
-}
-@-webkit-keyframes wordpress {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
-}
-@-webkit-keyframes css {
+@-moz-keyframes pipelining {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-webkit-keyframes html5 {
+
+@-webkit-keyframes statistics {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-webkit-keyframes pipeline-dev {
+  0%   { width: 0px;  }
+  100% { width: 85%;  }
+}
+@-webkit-keyframes qa {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-webkit-keyframes jquery {
+@-webkit-keyframes tools {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 80%;  }
+}
+@-webkit-keyframes pipelining {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
 }
 
 /* ------------------------------------------------------------------ */
