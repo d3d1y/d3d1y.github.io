@@ -242,7 +242,7 @@ ul#nav li.current a { color: #F06000; }
    overflow: hidden;
 }
 
-.resume a, .resume a:visited  { color: #003300; }
+.resume a, .resume a:visited  { color: #336633; }
 .resume a:hover, .resume a:focus { color: #313131; }
 
 .resume h1 {
@@ -267,8 +267,8 @@ ul#nav li.current a { color: #F06000; }
    border-bottom: 1px solid #E8E8E8;
 }
 .resume .info {
-   font: 16px/24px 'librebaskerville', serif;
-   color: #003300;
+   font: 16px/24px 'opensans-regular', sans-serif;
+   color: #336633;
    margin-bottom: 18px;
    margin-top: 9px;
 }
