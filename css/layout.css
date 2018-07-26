@@ -179,7 +179,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a { color: #F003300; }
 
 
 /* ------------------------------------------------------------------ */
@@ -343,10 +343,10 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: tools 2s ease;
   	-webkit-animation: tools 2s ease;
 }
-.pipelining {
+.pipeline-design {
   	width: 90%;
-  	-moz-animation: pipelining 2s ease;
-  	-webkit-animation: pipelining 2s ease;
+  	-moz-animation: pipelinie-design 2s ease;
+  	-webkit-animation: pipeline-design 2s ease;
 }
 
 @-moz-keyframes statistics {
@@ -365,7 +365,7 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-moz-keyframes pipelining {
+@-moz-keyframes pipeline-design {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
@@ -386,7 +386,7 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-webkit-keyframes pipelining {
+@-webkit-keyframes pipeline-design {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
