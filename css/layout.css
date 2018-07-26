@@ -345,7 +345,7 @@ ul#nav li.current a { color: #F06000; }
 }
 .pipeline-design {
   	width: 90%;
-  	-moz-animation: pipelinie-design 2s ease;
+  	-moz-animation: pipeline-design 2s ease;
   	-webkit-animation: pipeline-design 2s ease;
 }
 
